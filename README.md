@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jafar</h1>
-<h3 align="center">A passionate software engineer. My interests lie in software development for good. I like to build largae scale systems used by a lot of people across different parts of ther world.</h3>
+<h3 align="center">A passionate software engineer. I like to build large-scale systems.</h3>
 
 - 🌱 I’m currently learning **Data Engineering**
 
