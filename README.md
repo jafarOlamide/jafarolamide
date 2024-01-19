@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jafarolamidekale@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/jafarolamidekale/</h3>
 <p align="left">
 </p>
 
