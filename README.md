@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jafar</h1>
 <h3 align="center">A passionate software engineer. I like to build large-scale systems.</h3>
 
-- 💬 Ask me about **NodeJS, Laravel, TypeScript, Docker, K8S**
+- 💬 Ask me about **TypeScript,NodeJS, Docker, Python, Larvel**
 
 - 📫 How to reach me **jafarolamidekale@gmail.com**
 
