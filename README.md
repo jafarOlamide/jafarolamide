@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jafar</h1>
-<h3 align="center">A passionate software engineer. I like to build large-scale systems.</h3>
+<h1 align="center">Hi 👋, I'm Ja'far</h1>
+<h3 align="center">Experienced Software Engineer. I like to build large-scale systems and fix issues in systems</h3>
 
 - 💬 Ask me about **TypeScript, NodeJS, Docker, Python, Laravel**
 
